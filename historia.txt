@@ -2,7 +2,7 @@ Esta es la historia de Moises Rivera
 
 Moises tiene 35 años nacio en El Salvador un lunes, 17 de Febrero de 1986.
 
-Hoy hablaremos de su historia...
+Hoy hablaremos de su vida...
 A sus 35 esta aprendiendo programacion y este archivo es parte del curso de git.
 
 Su madre es maestra jubilada su padre un tencnico en electronica y electrica.
